@@ -14,7 +14,7 @@ const projects = [
     alt: 'Modern bathroom',
   },
   {
-    image: 'https://hoirqrkdgbmvpwutwuwj.supabase.co/storage/v1/object/public/assets/assets/917d6f93-fb36-439a-8c48-884b67b35381_1600w.jpg',
+    image: 'https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?q=80&w=1932&auto=format&fit=crop',
     location: 'Berlin, DE',
     title: 'Concrete Atelier',
     alt: 'Dark interior',
